@@ -1,2 +1,2 @@
-# farmadiallo.github.io
+# farmadiallo
 Mon CV en ligne
